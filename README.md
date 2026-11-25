@@ -2,10 +2,10 @@
 
 Analysis scripts for the paper:
 
-> Anxhela Nano, Mayur Akewar, and Janki Bhimani.
-> "Benchmarking Coverage-Aware LLM Diagnosis on HPC I/O Telemetry."
-> BPOD Workshop, IEEE International Conference on Big Data
-> (IEEE BigData 2026), Phoenix, AZ, USA, December 2026.
+Anxhela Nano, Mayur Akewar, and Janki Bhimani.
+"Benchmarking Coverage-Aware LLM Diagnosis on HPC I/O Telemetry."
+BPOD Workshop, IEEE International Conference on Big Data
+(IEEE BigData 2026), Phoenix, AZ, USA, December 2026.
 
 The paper evaluates when large language models can and cannot be trusted
 to diagnose HPC I/O telemetry (ALCF Theta Darshan logs, 2017–2023). It
