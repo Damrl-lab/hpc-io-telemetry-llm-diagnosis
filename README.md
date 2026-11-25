@@ -10,8 +10,8 @@ Analysis scripts for the paper:
 The paper evaluates when large language models can and cannot be trusted to
 diagnose HPC I/O telemetry (ALCF Theta Darshan logs, 2017–2023), identifies
 retrieval-dependent normalization as the key failure mode, and evaluates a
-deterministic evidence layer — a feature rule, per-year historical baselines,
-and an unknown-state registry — on 2,500 production job records.
+deterministic evidence layer - a feature rule, per-year historical baselines,
+and an unknown-state registry - on 2,500 production job records.
 
 ## Status
 
