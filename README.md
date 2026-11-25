@@ -75,13 +75,6 @@ Office of Science user facility). The dataset is not redistributed here.
 
 Requirements: Python 3 with `pandas` and `numpy`.
 
-## AI assistance
-
-The analysis scripts were developed with AI assistance (Claude,
-Anthropic), directed and validated by the authors, as disclosed in the
-paper. All study design, experiments, data analyses, results, and
-conclusions are the authors' own.
-
 ## Acknowledgments
 
 This work was supported by NSF grants CSR-2402328, CAREER-2338457,
