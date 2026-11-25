@@ -69,18 +69,3 @@ This work uses the publicly released ALCF Theta Darshan dataset
 Office of Science user facility). The dataset is not redistributed here.
 
 Requirements: Python 3 with `pandas` and `numpy`.
-
-## AI assistance
-
-The analysis scripts were developed with AI assistance (Claude,
-Anthropic), directed and validated by the authors, as disclosed in the
-paper. All study design, experiments, data analyses, results, and
-conclusions are the authors' own.
-
-## Acknowledgments
-
-This work was supported by NSF grants CSR-2402328, CAREER-2338457,
-CSR-2406069, CSR-2323100, and CCF-2621730. This research used data from
-the Argonne Leadership Computing Facility, a U.S. Department of Energy
-Office of Science user facility supported under Contract
-DE-AC02-06CH11357.
